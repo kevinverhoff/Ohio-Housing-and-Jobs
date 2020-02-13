@@ -1,0 +1,2 @@
+Census - https://data.census.gov/cedsci/table?q=Housing%20Units&g=0400000US39.050000&t=Housing%3AHousing%20Units&hidePreview=true&table=DP04&tid=ACSDP5Y2018.DP04&lastDisplayedRow=159&vintage=2016&tp=true
+Bureau of labor statistics - https://www.bls.gov/regions/midwest/news-release/countyemploymentandwages_ohio.htm
