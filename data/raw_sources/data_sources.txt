@@ -1,0 +1,2 @@
+Census - https://data.census.gov/table/ACSDP5Y2022.DP04?q=DP04&t=Housing%20Units&g=040XX00US17$0500000,18$0500000,21$0500000,26$0500000,27$0500000,39$0500000,55$0500000&moe=true&tp=true%20Units&hidePreview=true&table=DP04&tid=ACSDP5Y2018.DP04&lastDisplayedRow=159&vintage=2016&tp=true --if needed, search DP04, add the counties for each state, and then download to zip
+Bureau of labor statistics - https://data.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=1&year=2023&qtr=4&own=0&ind=10&supp=0 --generate the table, set to display all rows and copy/paste it
